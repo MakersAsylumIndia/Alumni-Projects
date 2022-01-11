@@ -1,2 +1,2 @@
 # Alumni-Projects
-List of projects done be Maker's Asylum Alumni
+List of projects made by Maker's Asylum Alumni
